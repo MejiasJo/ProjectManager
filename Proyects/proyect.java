@@ -5,6 +5,7 @@
 package Proyects;
 
 import java.util.HashSet;
+import tasks.Task;
 
 /**
  *
